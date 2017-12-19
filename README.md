@@ -20,7 +20,7 @@ Download the latest version of Java (jre) on your computer.
 3. In this folder -> click Shift and without releasing the button Shift -> click on the right mouse button -> and you should see a menu window.
 4. select the item "Open command window here".
 5. then write the following text at the command prompt (cmd.exe): java -jar Example_Simple_TCP_IP_SocketEchoServer.jar and press ENTER.
-6. As a result of a successful launch server writes a message "SERVER RUN".
+6. As a result of a successful startup, the server will write a message "SERVER RUN".
 7. Tezhe actions proceed towards Example_Simple_TCP_IP_SocketEchoClient.jar file, it is important that the client and server are running in separate command prompt windows.
 8. As a result of the successful launch of the client writes a message "The server waits for messages from the client" and "Write a message and wait for a server response". Now write the message to the server, and press ENTER server responds to you.
 
